@@ -41,8 +41,9 @@ three vowels `a` and a double `a`.
 `"aaab"` is nice, because all three conditions are satisfied.
 
 Run `TestNiceString` to check your solution.
+   
+***
 
-====================================================================
 
 ## Taxi Park
 
